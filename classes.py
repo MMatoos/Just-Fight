@@ -1,29 +1,32 @@
 import pygame as pg
 import random
 
-hero_stand = [pg.image.load('stand1.png'), pg.image.load('stand2.png'), pg.image.load('stand3.png')]
-hero_attack = [pg.image.load('attack0.png'), pg.image.load('attack1.png'),
-               pg.image.load('attack2.png'), pg.image.load('attack3.png'),
-               pg.image.load('attack4.png'), pg.image.load('attack5.png'),
-               pg.image.load('attack6.png'), pg.image.load('attack7.png'),
-               pg.image.load('attack8.png'), pg.image.load('attack9.png'),
-               pg.image.load('attack10.png'), pg.image.load('attack11.png'),
-               pg.image.load('attack12.png'), pg.image.load('attack13.png'),
-               pg.image.load('attack14.png'), pg.image.load('attack15.png'),
-               pg.image.load('attack16.png')]
-hero_sp_attack = [pg.image.load('fire1.png'), pg.image.load('fire2.png'), pg.image.load('fire3.png'),
-                  pg.image.load('fire4.png'), pg.image.load('fire5.png')]
-hero_defend = [pg.image.load('crouch1.png'), pg.image.load('crouch2.png'),
-               pg.image.load('crouch3.png'), pg.image.load('crouch4.png')]
-enemy_stand = [pg.image.load('tile000.png'), pg.image.load('tile001.png'), pg.image.load('tile002.png'),
-               pg.image.load('tile003.png'), pg.image.load('tile004.png'), pg.image.load('tile005.png'),
-               pg.image.load('tile006.png'), pg.image.load('tile007.png'), pg.image.load('tile008.png'),
-               pg.image.load('tile009.png'), pg.image.load('tile010.png')]
+hero_stand = [pg.image.load('images/stand1.png'), pg.image.load('images/stand2.png'),
+              pg.image.load('images/stand3.png')]
+hero_attack = [pg.image.load('images/attack0.png'), pg.image.load('images/attack1.png'),
+               pg.image.load('images/attack2.png'), pg.image.load('images/attack3.png'),
+               pg.image.load('images/attack4.png'), pg.image.load('images/attack5.png'),
+               pg.image.load('images/attack6.png'), pg.image.load('images/attack7.png'),
+               pg.image.load('images/attack8.png'), pg.image.load('images/attack9.png'),
+               pg.image.load('images/attack10.png'), pg.image.load('images/attack11.png'),
+               pg.image.load('images/attack12.png'), pg.image.load('images/attack13.png'),
+               pg.image.load('images/attack14.png'), pg.image.load('images/attack15.png'),
+               pg.image.load('images/attack16.png')]
+hero_sp_attack = [pg.image.load('images/fire1.png'), pg.image.load('images/fire2.png'),
+                  pg.image.load('images/fire3.png'), pg.image.load('images/fire4.png'),
+                  pg.image.load('images/fire5.png')]
+hero_defend = [pg.image.load('images/crouch1.png'), pg.image.load('images/crouch2.png'),
+               pg.image.load('images/crouch3.png'), pg.image.load('images/crouch4.png')]
+enemy_stand = [pg.image.load('images/tile000.png'), pg.image.load('images/tile001.png'),
+               pg.image.load('images/tile002.png'), pg.image.load('images/tile003.png'),
+               pg.image.load('images/tile004.png'), pg.image.load('images/tile005.png'),
+               pg.image.load('images/tile006.png'), pg.image.load('images/tile007.png'),
+               pg.image.load('images/tile008.png'), pg.image.load('images/tile009.png'),
+               pg.image.load('images/tile010.png')]
 
 transform = lambda x, y, sprite : pg.transform.scale(sprite, (x, y))
 for i in range(3):
-    hero_stand[i] = transform(150, 111, hero_stand[i])
-    #hero_stand[i] = pg.transform.scale(hero_stand[i], (150, 111))
+    hero_stand[i] = transform(150, 111, hero_stand[i]) 
 stand_count = 0
 for i in range(17):
     hero_attack[i] = transform(150, 111, hero_attack[i])

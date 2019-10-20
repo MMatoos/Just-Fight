@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba6d0645-8e30-401a-8b62-b099263c5080" name="Default Changelist" comment="" />
+    <list default="true" id="ba6d0645-8e30-401a-8b62-b099263c5080" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60502089_837456586614550_6506393502274813952_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/Mobile - Final Fantasy Brave Exvius - Franis.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/attack9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/crouch1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/crouch2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/crouch3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/crouch4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/die1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/die2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/die3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/die4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/die5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/die6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/die7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/gimp/button.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/stand1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/stand2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nowy folder/stand3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crouch1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crouch2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crouch3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crouch4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/die1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/die2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/die3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/die4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/die5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/die6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/die7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fight.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stand1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stand2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stand3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/win.wav" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,18 +119,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>blit</find>
-      <find>menu_up</find>
-      <find>mixer</find>
-      <find>opponent.hp</find>
-      <find>opponent</find>
-      <find>win1</find>
-      <find>fight = T</find>
-      <find>doctor</find>
-      <find>back_menu_button</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -39,10 +129,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1STAM4635I4h1ATbxQdXuer4HkJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Szkola\Jezyki Symboliczne\pythonGame" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,5 +197,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

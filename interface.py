@@ -6,8 +6,8 @@ white = (255, 255, 255)
 bubu = (155, 124, 211)
 black = (0, 0, 0)
 
-button_img = pg.image.load('button.png')
-button_pressed_img = pg.image.load('button1.png')
+button_img = pg.image.load('images/button.png')
+button_pressed_img = pg.image.load('images/button1.png')
 
 
 class Button(object):
@@ -19,7 +19,7 @@ class Button(object):
         self.image.fill(white)
         self.function = use
         self.text_button = text_button
-        self.font = pg.font.Font('font.ttf', 35)
+        self.font = pg.font.Font('fonts/font.ttf', 35)
         self.font_color = white
         self.text = self.font.render(self.text_button, True, self.font_color)
         self.text_rect = self.text.get_rect(center=self.rect.center)

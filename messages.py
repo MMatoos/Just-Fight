@@ -8,7 +8,7 @@ rect1 = pg.Rect(550, 525, 200, 240)
 
 
 def message_display(win, x, y, w, h, text, size):
-    large_text = pg.font.Font('font.ttf', size)
+    large_text = pg.font.Font('fonts/font.ttf', size)
     text_surface, text_rectangle = text_objects(text, large_text)
     text_rectangle.center = (x+(w/2), y+(h/2)-15)
     win.blit(text_surface, text_rectangle)
@@ -16,7 +16,7 @@ def message_display(win, x, y, w, h, text, size):
 
 
 def smessage_display(win, x, y, text, size):
-    small_text = pg.font.Font("font.ttf", size)
+    small_text = pg.font.Font("fonts/font.ttf", size)
     text_surface, text_rectangle = text_objects(text, small_text)
     text_rectangle = (x, y)
     win.blit(text_surface, text_rectangle)

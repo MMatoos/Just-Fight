@@ -19,10 +19,10 @@ win = pg.display.set_mode((win_w, win_h))
 pg.display.set_caption("Game")
 clock = pg.time.Clock()
 
-fight_background_img = pg.image.load('background.png')
-menu_background_img = pg.image.load('menu_background.jpg')
-alchemist_background_img = pg.image.load('doctor1.png')
-inventory_background_img = pg.image.load('camp.png')
+fight_background_img = pg.image.load('images/background.png')
+menu_background_img = pg.image.load('images/menu_background.jpg')
+alchemist_background_img = pg.image.load('images/doctor1.png')
+inventory_background_img = pg.image.load('images/camp.png')
 menu_background_img = pg.transform.scale(menu_background_img, (1280, 720))
 alchemist_background_img = pg.transform.scale(alchemist_background_img, (1280, 720))
 
@@ -231,7 +231,7 @@ while not game_exit:
 
         if hpdis:
             fun.hp_display(hero, opponent, win)
-            pg.mixer.music.load("fight.mp3")
+            pg.mixer.music.load("music/fight.mp3")
             pg.mixer.music.play(-1)
             hpdis = False
 
@@ -392,7 +392,7 @@ while not game_exit:
         if fun.death_check(hero, opponent) == 1 and end:
             ms.down_clear(win)
             ms.message_display(win, 0, 510, 1280, 210, "YOU WIN !!!", 150)
-            pg.mixer.music.load("win.wav")
+            pg.mixer.music.load("music/win.wav")
             pg.mixer.music.play(0)
             win1 = True
             fight = False
@@ -412,7 +412,7 @@ while not game_exit:
             end = False
             hpdis = True
             if win1:
-                opponent = monsters.bandit
+                opponent.hp = opponent.max_hp
             back_menu_button.clicked = 0
         end_fight_update()
 

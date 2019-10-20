@@ -92,7 +92,3 @@ def heal(player, type, win):
         player.hp += heal_amount(15)
     ms.smessage_display(win, 755, 525, "You are healed now!", 40)
 
-
-#################
-# STRZAŁKI DO PRZEWIJANIA EKWIPUNKU LEWO PRAWO, PO SRODKU WYSWIETLA SIE FOTA I NAZWA + STATY
-#################
